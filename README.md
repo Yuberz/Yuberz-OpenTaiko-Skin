@@ -1,7 +1,7 @@
 
 # Yuberz's OpenTaiko Skin
 
-This is a fork of [Mohshir's Opentaiko Skin](https://github.com/MoshirMoshir/Moshir-OpenTaiko-Skin). It is currently functional as of OpenTaiko Version 0.6.0.6.
+This is a fork of [Mohshir's Opentaiko Skin](https://github.com/MoshirMoshir/Moshir-OpenTaiko-Skin). It is currently functional as of OpenTaiko Version 0.6.0.11.
 
 ## Notice
 If any assets are used from this fork, I would prefer for credit to be attributed. Some of the assets are handmade, so I would appreciate the credit! Also, I would NOT recommend using this commercially or on streams. This is only for private use.
