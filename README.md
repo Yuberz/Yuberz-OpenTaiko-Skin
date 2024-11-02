@@ -1,11 +1,11 @@
 
 # Yuberz's OpenTaiko Skin
 
-This is a fork of [Mohshir's Opentaiko Skin](https://github.com/MoshirMoshir/Moshir-OpenTaiko-Skin). It is currently functional as of OpenTaiko Version 0.6.0.11.
+This is a fork of [Mohshir's Opentaiko Skin](https://github.com/MoshirMoshir/Moshir-OpenTaiko-Skin). It is currently functional as of OpenTaiko Version 0.6.0.15.
 
 ## Notice
 If any assets are used from this fork, I would prefer for credit to be attributed. Some of the assets are handmade, so I would appreciate the credit! Also, I would NOT recommend using this commercially or on streams. This is only for private use.
-Do NOT link this repository in the OpenTaiko discord server or anything affiliated with OpenTaiko. It is FORBIDDEN and any potential bans regarding this are not my responsibility. This skin is NOT affiliated with the OpenTaiko project or any of its developers.
+Do NOT link this repository publicly, especially in the OpenTaiko discord server or anything affiliated with OpenTaiko. It is FORBIDDEN and any potential bans regarding this are not my responsibility. This skin is NOT affiliated with the OpenTaiko project or any of its developers.
 
 ## Installation
 1. Download the latest [release](https://github.com/Yuberz/Yuberz-OpenTaiko-Skin/releases).
